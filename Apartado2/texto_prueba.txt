@@ -1,0 +1,5 @@
+Python es el lenguaje que más se usa en inteligencia artificial. ¿Por qué? Porque es un lenguaje sencillo, se lee casi como un texto en inglés y tiene muchas librerías.
+
+Con Python puedo cargar los datos, limpiarlos y entrenar un modelo. Después, si el modelo funciona bien, puedo probarlo en una competición de Kaggle con datos reales.
+
+Otros lenguajes, como R u Octave, también sirven para trabajar con datos; pero, para empezar, Python me parece el lenguaje más cómodo.
